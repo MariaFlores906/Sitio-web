@@ -1,0 +1,76 @@
+body{
+  background-color: #796fc3;
+  color: yellow;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+img{
+min-height: 200px;
+min-width: 200px;
+max-height: 40%;
+max-width: 40%;
+}
+.titulo h1{
+  margin: 0;
+}
+.especial{
+  color:red;
+}
+.titulo h4{
+  margin: 0;
+}
+.titulo{
+  color:beige;
+  font-size: 30px;
+}
+hr{
+  width:100%;
+}
+.contenido{
+  display: flex;
+  flex-direction: column;
+}
+.dos{
+  display:flex;
+}
+.dos img{
+  margin-right: 50px;
+  margin-left: 50px;
+}
+  
+
+.h2especial{
+   color: green;
+}
+
+.wiki{
+  height: 400px;
+  width: 800px;
+}
+.dos{
+  display:flex;
+  margin: 0px;
+  padding: 0px;
+  height: 200px;
+  width: 100%;
+}
+.dos img{
+  margin-right: 50px;
+  margin-left: 50px;  
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.p{
+margin: 0;
+}
+
+h1{
+  border: solid;
+  
+}
+
+.padding{
+  padding bottom: 20 px;
+  margin-top: 0;
+}
